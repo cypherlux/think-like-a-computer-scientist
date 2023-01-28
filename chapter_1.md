@@ -27,6 +27,24 @@ Computers are used to automate solutions to problems WAY more faster and accurat
 
 Python is a __high-level__ programming language.
 
+_High-level_ programming languages:
+- take less time to write
+- shorter and easier to read
+- are __portable__ and can run on different kinds of computers
+
+_Low-level_ programming languages:
+- aka machine lanauges or assembly languages
+- encode in binary so they can be __directly executed by the computer__
+
+Two kinds of programs process high-level languages into low-level languages:
+1) Interpreters
+- executes the program directly
+- processed a little at a time
+
+2) Compilers
+- reads program (source code) and translates it completely BEFORE it runs
+
+
 ## 1.4. Executing Python in this Book
 ## 1.5. More About Programs
 ## 1.6. What is Debugging?
