@@ -11,7 +11,7 @@ __Problem Solving__ = ability to formulate problems, think creativity about solu
 
 ## 1.2. Algorithms
 
-_Algorithms_ are:
+__Algorithms__ are:
 - SOLUTIONS
 - a step-by-step list of instructions that if followed exactly will solve the problem under consideration
 
@@ -27,14 +27,14 @@ Computers are used to automate solutions to problems WAY more faster and accurat
 
 Python is a __high-level__ programming language.
 
-_High-level_ programming languages:
+__High-level__ programming languages:
 - take less time to write
 - shorter and easier to read
-- are __portable__ and can run on different kinds of computers
+- are _portable_ and can run on different kinds of computers
 
-_Low-level_ programming languages:
+__Low-level__ programming languages:
 - aka machine lanauges or assembly languages
-- encode in binary so they can be __directly executed by the computer__
+- encode in binary so they can be _directly executed by the computer_
 
 Two kinds of programs process high-level languages into low-level languages:
 1) Interpreters
@@ -67,19 +67,25 @@ _Codelens_ allows you to:
 A _program_ is a sequence of instructions that specifices how to perform a computer.
 
 __Input__ - get data from the keyboard, a file, or some other device.
+
 __Output__ - display data on the screen or send data to a file or other device.
+
 __Math and Logic__ - perform basic mathematical operations like addition and multiplication and logical operations like `and`, `or`, and `not`.
+
 __Conditional execution__ - check for certain conditions and execute the appropriate sequence of statements.
+
 __Repetition__ - perform some action repeatedly, usually with some variation.
 
 ## 1.6. What is Debugging?
 
 __Bugs__ - programming errors
+
 __Debugging__ - process of tracking down bugs and correcting them
 
 ## 1.7. Syntax errors
 
 __Syntax__ - the structure of a program and the rules about that structure.
+
 __Syntax error__ - an error in the syntax or structure of the program.
 
 ## 1.8. Runtime Errors
@@ -104,7 +110,7 @@ Programming and debugging go hand-in-hand. Programming is the process of gradual
 
 __Natural languages__ - languages that people speak (ex: English or Spanish) that evolved naturally over time.
 
-__Formal languages__ - lagnauges that are _designed_ by people for specific applications (ex: math and programming)
+__Formal languages__ - langauges that are _designed_ by people for specific applications (ex: math and programming)
 
 Formal languages have strict rules about syntax, which come in two flavors:
 1) __Tokens__ - basical elements of the language, such as words, numbers, and chemcal elements.
